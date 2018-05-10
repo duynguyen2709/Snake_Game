@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ff54c9f93ae68bf4291394aeae9c06d0
+timeCreated: 1508122392
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Rock1: {fileID: 1375373452591608, guid: 2f46efdf43a85b1438c7c5c1a014bd52, type: 2}
+  - Rock2: {fileID: 1280206307447638, guid: e9f8e520460b1cf419a43a8bbcd97706, type: 2}
+  - Rock3: {fileID: 1938999706647084, guid: 3a98ace4c7b1097468697fac5b1ccbf7, type: 2}
+  - Rock4: {fileID: 1858856572624148, guid: df36d390bcb38cb4a92e3a8f22468daf, type: 2}
+  - Rock5: {fileID: 1208512474383824, guid: aed4abcf7c36a774ba20320068aadb34, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
