@@ -17,7 +17,7 @@ public class SpawnFood : MonoBehaviour
 
     private int CountFood = 0;
 
-    private float defaultDistance = 6f;
+    private float defaultDistance = 6.5f;
 
     private bool isAppear;
 
